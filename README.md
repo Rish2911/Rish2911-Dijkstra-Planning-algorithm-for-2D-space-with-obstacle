@@ -27,5 +27,7 @@ please enter the starting x coordinate from 1-250: 1
 please enter the goal x coordinate from 1-400: 400
 please enter the goal y coordinate from 1-250: 250
 
+OUTPUT:
+![alt-text](https://github.com/Rish2911/Rish2911-Dijkstra-Planning-algorithm-for-2D-space-with-obstacle/blob/main/ezgif.com-gif-maker.gif)
 
 Github link: https://github.com/Rish2911/Rish2911-Dijkstra-Planning-algorithm-for-2D-space-with-obstacle
